@@ -1,0 +1,21 @@
+{
+  "name": "sugar-loader",
+  "version": "0.1.4",
+  "description": "Loader for SUGARJS.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "loader",
+    "sugarjs"
+  ],
+  "author": "fengshangshi",
+  "license": "ISC",
+  "files": [
+	"README.md"
+  ],
+  "dependencies": {
+    "rd": "0.0.2"
+  }
+}

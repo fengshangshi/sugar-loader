@@ -1,1 +1,2 @@
-# sugar-loader
+Loader for SUGAR JS
+============
