@@ -1,6 +1,6 @@
 {
   "name": "sugar-loader",
-  "version": "0.1.8",
+  "version": "0.1.12",
   "description": "Loader for SUGARJS.",
   "main": "./lib/index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "url": "git@github.com:fengshangshi/sugar-loader.git"
   },
   "dependencies": {
-    "rd": "0.0.2",
-    "underscore": "^1.8.3"
+    "lodash": "^3.10.1",
+    "rd": "0.0.2"
   }
 }
