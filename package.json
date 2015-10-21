@@ -1,6 +1,6 @@
 {
   "name": "sugar-loader",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Loader for SUGARJS.",
   "main": "./lib/index.js",
   "scripts": {
